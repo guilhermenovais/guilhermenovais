@@ -9,7 +9,6 @@ Welcome to my GitHub! I'm a passionate Software Engineer from 🇧🇷 Belo Hori
 
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Java Badge](https://img.shields.io/badge/-JAVA-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
